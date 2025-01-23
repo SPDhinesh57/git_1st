@@ -1,1 +1,1 @@
-print("nama dhan")
+print("namma dhan")
